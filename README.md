@@ -1,6 +1,8 @@
 # Shop App
 
-My first Flutter project.  This app is a basic e-commerce app where you can view products, add to cart, add to favorites, and edit product pages.  
+My first Flutter project, a basic e-commerce app.  
+
+> Add products to cart, order products, view your orders, add new products, edit and delete existing products
 
 ## App Functionality
 
