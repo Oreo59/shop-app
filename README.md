@@ -1,18 +1,10 @@
-# shop_app
+# Shop App
 
-A new Flutter project.
+My first Flutter project.  This app is a basic e-commerce app where you can view products, add to cart, add to favorites, and edit product pages.  
 
-## Getting Started
+[App Functionality](http://g.recordit.co/T1tDSSAdtt.gif)
 
-This project is a starting point for a Flutter application.
+## Author
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-test
+Ryan Charnoky
+Future difference maker, current aspiring developer
