@@ -2,7 +2,17 @@
 
 My first Flutter project, a basic e-commerce app.  
 
-> Add products to cart, order products, view your orders, add new products, edit and delete existing products
+> Add products to cart
+
+> Order products
+
+> View your orders
+
+> Add new products
+
+> Edit existing products
+
+> Delete existing products
 
 ## App Functionality
 
